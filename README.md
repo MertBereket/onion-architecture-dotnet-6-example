@@ -1,0 +1,1 @@
+# onion-architecture-dotnet-6-example
