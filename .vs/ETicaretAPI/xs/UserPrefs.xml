@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{A057E2F1-FC39-46A3-91CA-2DB683FAD72B}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/ETicaretAPI.API/Controllers/ProductsController.cs">
+    <Files>
+      <File FileName="Presentation/ETicaretAPI.API/Program.cs" />
+      <File FileName="Presentation/ETicaretAPI.API/Controllers/ProductsController.cs" Line="13" Column="29" />
+      <File FileName="Infrastructure/ETicaretAPI.Persistence/Repostories/WriteRepository.cs" />
+      <File FileName="Presentation/ETicaretAPI.API/appsettings.Development.json" />
+      <File FileName="Presentation/ETicaretAPI.API/appsettings.json" Line="14" Column="1" />
+      <File FileName="Infrastructure/ETicaretAPI.Persistence/DesingTimeDbContextFactory.cs" />
+      <File FileName="Infrastructure/ETicaretAPI.Persistence/Configuration.cs" />
+      <File FileName="Infrastructure/ETicaretAPI.Persistence/ServiceRegistration.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ETicaretAPI">
+            <Node name="Core" expanded="True" />
+            <Node name="Infrastructure" expanded="True" />
+            <Node name="Presentation" expanded="True">
+              <Node name="ETicaretAPI.API" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="ProductsController.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.ETicaretAPI.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
